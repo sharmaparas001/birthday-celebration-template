@@ -21,7 +21,7 @@ Open `http://localhost:5173`
 **File:** `src/components/Countdown.jsx` (Line 21)
 
 ```javascript
-const targetDate = new Date("2025-12-18T00:00:00");
+const targetDate = new Date("2025-12-29T00:00:00");
 ```
 
 **Format Explanation:**
@@ -70,9 +70,9 @@ const targetDate = new Date("2025-12-25T12:00:00");
 **File:** `src/components/MessageCard.jsx` (Lines 17-28)
 
 ```javascript
-const recipientName = "Divyanshi";
-const senderName = "Ashmit";
-const message = `Your message here...`;
+const recipientName = "Chanchuu";
+const senderName = "Paras";
+const message = `hey beautiful , you know that you are most wonderful person that i have met this year and now you are turning 19 idk how do I express this, we have so many laughs so many crazy stuffs that we did things that were once cringe to us . so many argues so mant cutesy stuffs many songs that were shared I still don't remember the number hehe, but what i do know that I am crazily in love with you and it just keeps on growing and i want that you have the best birthday that you ever had so that you can you can smile and laugh , Ik ik that I am not there to see it your smile or your laughs but I'll try my best to make it memorable and something that you don't forget .`;
 ```
 
 ---
